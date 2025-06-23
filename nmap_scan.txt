@@ -8,13 +8,13 @@ MAC Address: 00:50:56:F4:27:77 (VMware)
 
 Nmap scan report for 192.168.214.254
 Host is up (0.00028s latency).
-All 1000 scanned ports on 192.168.214.254 are in ignored states.
+All 1000 scanned ports on 192.168.214.254 are in closed states.
 Not shown: 1000 filtered tcp ports (no-response)
 MAC Address: 00:50:56:ED:A2:81 (VMware)
 
 Nmap scan report for 192.168.214.140
 Host is up (0.0000030s latency).
-All 1000 scanned ports on 192.168.214.140 are in ignored states.
+All 1000 scanned ports on 192.168.214.140 are in closed states.
 Not shown: 1000 closed tcp ports (reset)
 
 # Nmap done at Mon Jun 23 05:06:21 2025 -- 256 IP addresses (3 hosts up) scanned in 6.28 seconds

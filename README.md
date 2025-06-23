@@ -42,6 +42,8 @@ Perform a scan of the local network using **Nmap** to identify open ports and un
        valid_lft forever preferred_lft forever
     inet6 ::1/128 scope host noprefixroute 
        valid_lft forever preferred_lft forever
+
+       
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 00:0c:29:75:df:32 brd ff:ff:ff:ff:ff:ff
     inet 192.168.214.140/24 brd 192.168.214.255 scope global dynamic noprefixroute eth0

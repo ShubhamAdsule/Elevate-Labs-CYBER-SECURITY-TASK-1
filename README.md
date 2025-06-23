@@ -111,9 +111,11 @@ Screenshot of scan available in:  ![scan_result png](https://github.com/user-att
 
 
 
+---
 
 
 
-Thank you **Elevate Labs** for this opportunity to get real-world cybersecurity exposure.
+
+##  Thank you **Elevate Labs** for this opportunity to get real-world cybersecurity exposure.
 
 

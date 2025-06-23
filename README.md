@@ -35,7 +35,7 @@ Perform a scan of the local network using **Nmap** to identify open ports and un
 
    Command used: ip a
    
-   Output: 
+  ## Output: 
    
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
@@ -61,9 +61,9 @@ Perform a scan of the local network using **Nmap** to identify open ports and un
 
 
 
-  Command used: nmap -sS 192.168.214.0/24 -oN nmap_scan.txt
+  ## Command used: nmap -sS 192.168.214.0/24 -oN nmap_scan.txt
   
-  Output: 
+  ## Output: 
   
   Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-23 05:06 EDT
 Nmap scan report for 192.168.214.2

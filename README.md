@@ -17,9 +17,7 @@ Perform a scan of the local network using **Nmap** to identify open ports and un
 | `README.md`                | Overview of the task, steps followed, and learning outcome   |
 | `nmap_scan.txt`            | Raw output from the Nmap TCP SYN scan                        |
 | `ip_port_summary.md`       | Summary of active hosts, open ports, and associated services |
-| `interview_questions.md`   | Answers to related cybersecurity interview questions         |
-| `wireshark_analysis.txt`   | Optional: Notes from Wireshark packet analysis               |
-| `screenshot/scan_result.png| Screenshot of the Nmap scan result (CLI or GUI)              |
+| `screenshot/scan_result.png| Screenshot of the Nmap scan result                           |
 
 ---
 
